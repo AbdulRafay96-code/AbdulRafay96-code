@@ -83,9 +83,9 @@
 | 🎯 Project | 📝 Description | 🛠️ Tech |
 |-----------|----------------|----------|
 | **🤖 Inflectiv** | AI Agent SaaS platform with RAG & blockchain auth | Python, FastAPI, Next.js, Qdrant, PostgreSQL |
+| **🔗 FlowPuppy** | Visual AI workflow builder with 17 providers & Web3 | Python, FastAPI, Next.js, React Flow, Solana |
 | **🎨 Poster Maker** | AI poster generator with OpenAI DALL-E 3 & Firebase | React, TypeScript, Firebase, OpenAI |
 | **🧼 Whiff Wonder** | Hygiene tracking app with AI chat assistant & rewards | React, TypeScript, Firebase, Capacitor |
-| **🧵 Stitch House** | AI-powered body measurement & tailoring platform | MediaPipe, PHP, JavaScript, MySQL |
 
 </div>
 
