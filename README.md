@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=18"/>
 
-<a href="https://github.com/rafay9696-ui">
+<a href="https://github.com/AbdulRafay96-code">
   <img src="https://img.shields.io/badge/GitHub-rafay9696--ui-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="mailto:rafay9696@gmail.com">
@@ -39,7 +39,7 @@ I am a Full Stack Developer and AI Engineer with a passion for building intellig
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rafay9696-ui&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AbdulRafay96-code&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 <br clear="both"/>
 
@@ -93,7 +93,7 @@ I am a Full Stack Developer and AI Engineer with a passion for building intellig
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafay9696-ui&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulRafay96-code&theme=radical&hide_border=true)
 
 </div>
 
@@ -115,7 +115,7 @@ I am a Full Stack Developer and AI Engineer with a passion for building intellig
 <a href="mailto:rafay9696@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/rafay9696-ui">
+<a href="https://github.com/AbdulRafay96-code">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
