@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HELLO%20DEV's&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/AbdulRafay96-code">
   <img src="https://img.shields.io/badge/GitHub-rafay9696--ui-181717?style=for-the-badge&logo=github"/>
