@@ -4,8 +4,7 @@
 
   ### Associate AI Engineer | Web Developer | CS Graduate
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Always+Lea
-  rning+New+Things" alt="Typing SVG" />
+  #### AI & Machine Learning Enthusiast | Building Intelligent Web Applications
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-99265236b/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafay9696@gmail.com)
@@ -73,8 +72,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=rafay9696-ui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafay9696-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay9696-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 
   </div>
 
